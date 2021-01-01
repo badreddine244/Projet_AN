@@ -1,5 +1,5 @@
 # Projet_AN
-[! [Binder] (https://mybinder.org/badge_logo.svg)] (https://mybinder.org/v2/gh/badreddine244/Projet_AN/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/badreddine244/Projet_AN/main)
 
 
 le mini projet consiste à gérer des méthodes (trapèze, rectangle, milieu et simpson).
