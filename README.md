@@ -5,8 +5,8 @@
 <h4>Le mini projet consiste à gérer des méthodes (trapèze, rectangle, milieu et simpson).
 J'ai créé 3 champs de texte pour entrer les valeurs de a, b etn et 4 cases à cocher pour
  choisir les courbes associées à la méthode souhaitée et un bouton pour afficher les courbes
-vous pouvez afficher 1, 2, 3 ou 4 courbes en même temps 
-NB:le fichier .py est la version 0 ,le fichier .ipnb est le fichier exécutable
+ vous pouvez afficher 1, 2, 3 ou 4 courbes en même temps 
+<br><h1>NB:le fichier .py est la version 0 ,le fichier .ipnb est le fichier exécutable</h1></br>
 </h4>
 
 # La démonstration de chaque graphe a part 
